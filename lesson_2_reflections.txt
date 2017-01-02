@@ -6,3 +6,7 @@ How is the staging area different from the working directory and the repository?
 The staging area is connected to git and status and add operates on staging area, staging area can contain
 all the files that are added that is, we are gonna make commit for that file. Working directory also contains
 untracked file. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+Staging area is temporary feild that hold the files that are to be commited. So when we want to commit any file we can add it to 
+staging area by seprating each commit logically different.
