@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+It gernerates a repository for my project and terminal showing me that it is now in master directory.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is connected to git and status and add operates on staging area, staging area can contain
+all the files that are added that is, we are gonna make commit for that file. Working directory also contains
+untracked file. 
