@@ -16,3 +16,11 @@ Branches are helpful when we want to work on different versions of project.  Tha
 
 How do the diagrams help you visualize the branch structure?
 Diagram gives a graphical structure of history so that it is easy to visualize the progress.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It get merged but the game is not working, it showing complete white screen.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros of automatic mearge in git are that it allows user to reduce the time to search the conflicts. It also gives graphical pointers 
+where the conflict occure. where as in manual way user has to do it all by him self. 
