@@ -1,0 +1,39 @@
+Add reflections and it is first
+
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Initially its a bit confusing that what i should look for and 
+how i am gonna find the typos in new file. But its good tool 
+when file becomes too big, like the file which is provided by 
+you, search becomes easy.
+
+
+How could having easy access to the entire history of a file 
+make you a more efficient programmer in the long term?
+
+Version control save much time of the programmer to find the 
+changes in the code and also to find typos in it. By useing 
+this we can also keep a track of what changes we have made.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions 
+automatically saved, like Google Docs does?
+
+It basically in users hand that when to commit on the git, which definatly gives a freedom to user to commit whenever he wants, this is advantagius because if we only commit when ever there is logical changes which avoid clutering in history, as compare to google docs it will do it in regular interval of time so, that may cause cluttering in history. Cons of git is user have to manually do commit to each and evry change where google docs does it automatically.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+its becouse of dependency of the files and there code.
+
+
+How can you use the commands git log and git diff to view the history of files?
+git log gives infomation of each commit with its commit ID, and alos gives information of author, time stamp so that we can easily 
+keep a track of commits and what changes are made to it can be mentioned in the comments. git diff is similar command like diff but it 
+is for the git repository, diff command give information a changes in the file with colored features.
+
+
+How might using version control make you more confident to make changes that could break something?
+git diff allows user to see the changes that are made from previous commit so that the errors are quickly recognisable.
+ 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I may use it get projects from git hub. 
