@@ -25,3 +25,10 @@ be harder?
 I can collaborate with others using mail but do it by mail will never sync. my project with 
 other or it is harder to do small changes in code. But GitHub provide a solution for that 
 using pull requests. 
+
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+When we have to create new version or just started on new issue then we may use a branch, the
+branch is also usefull when we fork the project of other person. And we want to do the change 
+in it easy. Benifits of doing it is we do not directly change the code in master branch which 
+gives safty of project.  
