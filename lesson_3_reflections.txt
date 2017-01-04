@@ -19,3 +19,9 @@ you want to solve new issue in existing project but you don't want to modify mas
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Benefit of having copy of last konwn state locally is when we try to merge if the conflict 
 occre we have the safe copy of the data.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would 
+be harder?
+I can collaborate with others using mail but do it by mail will never sync. my project with 
+other or it is harder to do small changes in code. But GitHub provide a solution for that 
+using pull requests. 
